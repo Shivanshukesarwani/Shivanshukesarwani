@@ -8,4 +8,3 @@
 Shivanshukesarwani/Shivanshukesarwani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![Netlify Status](https://api.netlify.com/api/v1/badges/2a73a4f5-84ad-4d8a-9ae6-60324c98b058/deploy-status)](https://app.netlify.com/sites/scaddesign/deploys)
